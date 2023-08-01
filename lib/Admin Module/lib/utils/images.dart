@@ -1,0 +1,15 @@
+import 'package:flutter/material.dart';
+String logo="assets/images/admin/logo.png";
+String beard="assets/images/admin/beard.png";
+String shade="assets/images/admin/shade.png";
+String barbershop="assets/images/admin/barbershop.png";
+String stamp="assets/images/admin/stamps.png";
+String trophy="assets/images/admin/trophy.png";
+String trophygrey="assets/images/admin/trophygrey.png";
+String trophywhite="assets/images/admin/trophywhitee.png";
+String profile="assets/images/admin/profile2.png";
+String profile2="assets/images/admin/profile.png";
+String contestWinner="assets/images/admin/contestwinner.png";
+String product="assets/images/admin/product.png";
+String productpic="assets/images/admin/productpic.png";
+String order="assets/images/admin/order.png";
